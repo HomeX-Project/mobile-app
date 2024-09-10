@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535343347974",
+    "project_id": "homex-fd825",
+    "storage_bucket": "homex-fd825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535343347974:android:fa6b269cdf771746254687",
+        "android_client_info": {
+          "package_name": "com.example.home_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535343347974-7nslgsik8t64g0mcn0urskietv36ciqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjLyqpF-Z-S59aPKfbRg7EVGdeNS3TGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535343347974-7nslgsik8t64g0mcn0urskietv36ciqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535343347974-f0r1ttu2mm2mh75oshrla1r2649otb31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
